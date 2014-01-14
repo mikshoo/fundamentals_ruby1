@@ -1,1 +1,1 @@
-puts 55 * 0.20
+puts 55 * 0.20 #Calculating integers 
